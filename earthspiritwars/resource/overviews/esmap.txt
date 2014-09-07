@@ -1,0 +1,8 @@
+esmap
+{
+	material materials/overviews/esmap.vmat
+	pos_x -4912
+	pos_y 2404
+	scale 7.644
+}
+
